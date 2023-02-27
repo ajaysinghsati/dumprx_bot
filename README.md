@@ -1,5 +1,5 @@
 # DumprX CI #
-Dump Android ROMs/Firmwares Online, via a PR, for free!
+Dump Android ROMs/Firmwares Online, via a PR, for free
 
 ## How to Dump? ##
 1. Update ```ROM_URL.txt``` with the direct link of the ROM/Firmware and Make a PR.
